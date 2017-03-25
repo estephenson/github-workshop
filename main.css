@@ -1,11 +1,13 @@
 body {
-   background-color: deepskyblue;
+   background: url("smith-background.jpg")center no-repeat;
+   background-position: cover;
    text-align: center;
+   height: 500px;
    font-size:1.5em;
 }
 
 h1 {
-   color: blue;
+   /*color: green;*/
    font-family: "Lobster", cursive;
 }
 
